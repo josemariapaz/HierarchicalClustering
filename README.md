@@ -1,5 +1,5 @@
 # Hierchical Clustering 
-Unsupervised machine learning techniques to identify players with similar characteristics among them in La Liga 2018/2019 season (data extracted from Opta F24 files).
+Unsupervised machine learning techniques to identify players with similar characteristics among them in La Liga 2018/2019 season (data extracted from Opta F24 files).\
 Feature 1: Passes to the final 3rd (p90m)
 Feature 2: Deep progressions (p90m)
 Feature 3: Pass accuracy (%)
